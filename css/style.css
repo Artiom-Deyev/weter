@@ -687,6 +687,8 @@ body {
 }
 .main__building-img {
   margin-bottom: 45px;
+  position: relative;
+  z-index: 100;
 }
 .main__bottom {
   display: flex;
